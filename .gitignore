@@ -1,0 +1,4 @@
+trainers/output/
+.ipynb_notebooks
+__pycache__
+.venv
