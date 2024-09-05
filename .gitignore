@@ -1,4 +1,4 @@
-trainers/output/
-.ipynb_notebooks
-__pycache__
+checkpoints
 .venv
+__pycache__
+.ipynb_checkpoints
